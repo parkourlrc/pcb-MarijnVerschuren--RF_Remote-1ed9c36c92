@@ -8430,16 +8430,6 @@
 		)
 		(uuid "4883fca0-8131-4a84-9681-ce27365dd57f")
 	)
-	(label "WKUP_2"
-		(at 111.76 135.89 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "4d711dac-e631-42cb-b3c6-4ac6aaa08b68")
-	)
 	(label "WKUP_1"
 		(at 99.06 135.89 0)
 		(effects
@@ -8580,6 +8570,16 @@
 		)
 		(uuid "93c3a9c7-f876-445d-a761-fbb48d9b5396")
 	)
+	(label "WKUP_3"
+		(at 111.76 135.89 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "99fee710-d45e-4098-9172-43d9fce37bc3")
+	)
 	(label "DATA2"
 		(at 41.91 71.12 180)
 		(effects
@@ -8670,7 +8670,7 @@
 		)
 		(uuid "d1852aeb-3dce-4d18-ac10-892603a6fd24")
 	)
-	(label "WKUP_2"
+	(label "WKUP_3"
 		(at 67.31 50.8 0)
 		(effects
 			(font
@@ -13596,7 +13596,7 @@
 			(at 177.8 155.194 0)
 			(effects
 				(font
-					(size 1.27 1.27)
+					(size 0.762 0.762)
 				)
 			)
 		)
